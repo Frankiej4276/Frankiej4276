@@ -1,0 +1,29 @@
+body { background-image: src="../images/dust_scratches.png"
+
+}
+h3{color: #4aaaa5;}
+h1,h2,h3 { font-family: 'Georgia', Times, Times New Roman, serif; }
+p,a { font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777 }
+    border not working
+h1{ color: white; padding:10px; border-style: solid; border-left: 15px; border-top: 15px; border-right: 15px; border-bottom: 15px; border-width: 15px; }
+.my-name { background-color: #4aaaa5; width: 200; }
+.header{top:0;}
+.inner-header{
+
+}
+.my-name{
+
+}
+.content-area { width: 960px; }
+#main-section { width: 650px; float: left; }
+#sidebar { width: 270px; float:left;  }
+
+.menu{float: right; down: 500px;
+}
+.footer { clear:both; float:bottom; position: relative;}
+
+.myImage{ resize: both;
+    
+    
+}
